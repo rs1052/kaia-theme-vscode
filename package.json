@@ -1,0 +1,22 @@
+{
+    "name": "kaia-theme",
+    "displayName": "Kaia Theme",
+    "description": "Monokai-based themes.",
+    "version": "0.0.1",
+    "publisher": "ryan-smith",
+    "engines": {
+        "vscode": "^1.28.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Kaia Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Kaia Theme-color-theme.json"
+            }
+        ]
+    }
+}

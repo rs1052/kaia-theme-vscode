@@ -1,9 +1,9 @@
 {
-    "name": "kaia-theme",
-    "displayName": "Kaia Theme",
-    "description": "Monokai-based themes.",
-    "version": "0.0.1",
-    "publisher": "ryan-smith",
+    "name": "kaia-theme-vscode",
+    "displayName": "Kaia",
+    "description": "A modern set of Monokai-inspired themes with a focus on good contrast ratios.",
+    "version": "1.0.0",
+    "publisher": "Ryan Smith",
     "engines": {
         "vscode": "^1.28.0"
     },
@@ -13,9 +13,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "Kaia Theme",
+                "label": "Kaia",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Kaia Theme-color-theme.json"
+                "path": "./themes/kaia.json"
+            },
+            {
+                "label": "Kaia Subtle",
+                "uiTheme": "vs-dark",
+                "path": "./themes/kaia-subtle.json"
             }
         ]
     }

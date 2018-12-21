@@ -16,7 +16,12 @@
                 "label": "Kaia",
                 "uiTheme": "vs-dark",
                 "path": "./themes/kaia.json"
-            }
+            },
+            {
+                "label": "Kaia Subtle",
+                "uiTheme": "vs-dark",
+                "path": "./themes/kaia-subtle.json"
+            }           
         ]
     }
 }

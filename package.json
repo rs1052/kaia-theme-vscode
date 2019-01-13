@@ -1,10 +1,12 @@
 {
     "name": "kaia-theme-vscode",
     "displayName": "Kaia",
-    "description": "A Monokai-inspired theme with a focus on good contrast ratios. 🐉",
+    "description": "🗻 A Monokai-inspired theme with a focus on accessible contrast ratios.",
     "version": "1.0.0",
     "publisher": "Ryan Smith",
     "icon": "images/logo.png",
+    "license": "MIT",
+	"homepage": "https://github.com/ryans331/kaia-theme-vscode",
     "repository": {
       "type": "git",
       "url": "https://github.com/ryans331/kaia-theme-vscode"
@@ -18,7 +20,9 @@
       "Kaia",
       "Kaia Theme",
       "Dark Theme",
-      "Accessible Theme"
+      "Accessible Theme",
+      "Accessibility",
+      "Contrast"
     ],
     "engines": {
         "vscode": "^1.28.0"

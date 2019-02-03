@@ -214,9 +214,9 @@
 		"sideBarTitle.foreground": "#616161",
 		"statusBar.background": "#1a1a1a",
 		"statusBar.border": "#121212",
-		"statusBar.debuggingBackground": "#1a1a1a",
+		"statusBar.debuggingBackground": "#424242",
 		"statusBar.debuggingBorder": "#121212", 
-		"statusBar.debuggingForeground": "#fffde7",
+		"statusBar.debuggingForeground": "#bdbdbd",
 		"statusBar.foreground": "#9e9e9e",
 		"statusBar.noFolderBackground": "#1a1a1a",
 		"statusBar.noFolderBorder": "#121212",
@@ -664,7 +664,7 @@
 				"meta.function-call.method.without-arguments.js"
 			],
 			"settings": {
-				"foreground": "#9e9e9e"
+				"foreground": "#bdbdbd"
 			}
 		},
 		{
@@ -796,7 +796,7 @@
 		{
 			"scope": "punctuation",
 			"settings": {
-				"foreground": "#9e9e9e"
+				"foreground": "#bdbdbd"
 			}
 		},
 		{

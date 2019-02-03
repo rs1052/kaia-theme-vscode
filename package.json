@@ -2,28 +2,28 @@
     "name": "kaia-theme-vscode",
     "displayName": "Kaia",
     "description": "🗻 A Monokai-inspired theme with a focus on accessible contrast ratios.",
-    "version": "1.0.2",
+    "version": "1.1.0",
     "publisher": "ryan0x200",
     "icon": "images/logo.png",
     "license": "MIT",
-	"homepage": "https://github.com/ryan3E0/kaia-theme-vscode",
+    "homepage": "https://github.com/ryan3E0/kaia-theme-vscode",
     "repository": {
-      "type": "git",
-      "url": "https://github.com/ryan3E0/kaia-theme-vscode"
+        "type": "git",
+        "url": "https://github.com/ryan3E0/kaia-theme-vscode"
     },
     "galleryBanner": {
-      "color": "#1a1a1a",
-      "theme": "dark"
+        "color": "#1a1a1a",
+        "theme": "dark"
     },
     "keywords": [
-      "Theme",
-      "Kaia",
-      "Kaia Theme",
-      "Dark Theme",
-      "Accessible Theme",
-      "Accessibility",
-      "Contrast",
-      "Monokai"
+        "Theme",
+        "Kaia",
+        "Kaia Theme",
+        "Dark Theme",
+        "Accessible Theme",
+        "Accessibility",
+        "Contrast",
+        "Monokai"
     ],
     "engines": {
         "vscode": "^1.28.0"
@@ -42,7 +42,7 @@
                 "label": "Kaia Subtle",
                 "uiTheme": "vs-dark",
                 "path": "./themes/kaia-subtle.json"
-            }           
+            }
         ]
     }
 }

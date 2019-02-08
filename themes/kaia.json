@@ -143,7 +143,7 @@
 		"list.highlightForeground": "#f5f5f5",
 		"list.hoverBackground": "#1a1a1a",
 		"list.hoverForeground": "#f5f5f5",
-		"list.inactiveFocusBackground": "#fff59d",
+		"list.inactiveFocusBackground": "#373737",
 		"list.inactiveSelectionBackground": "#212121",
 		"list.inactiveSelectionForeground": "#fff59d",
 		"list.invalidItemForeground": "#ef9a9a",
@@ -275,6 +275,9 @@
 		"welcomePage.buttonBackground": "#303030",
 		"welcomePage.buttonHoverBackground": "#616161",
 		"widget.shadow": "#121212",
+		"listFilterWidget.background": "#373737",
+		"listFilterWidget.noMatchesOutline": "#ffcdd2",
+		"listFilterWidget.outline": "#00000000",
 	},
 	"tokenColors": [
 		{

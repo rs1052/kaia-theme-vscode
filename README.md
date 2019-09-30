@@ -2,7 +2,8 @@
 
 A Monokai-inspired theme for Visual Studio Code with a focus on accessible contrast ratios.
 
-![Screenshot](images/screenshot.png)
+![Kaia Theme](images/kaia-theme.png)
+![Screenshot](images/kaia-subtle-theme.png)
 
 ## Installation
 1.  In Visual Studio Code, search for `Kaia` in the extensions side bar and install it.

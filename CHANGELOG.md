@@ -1,7 +1,8 @@
 # Change Log
 All notable changes to the "kaia-theme" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## 1.1.4
+- Update screenshots for Kaia and Kaia Subtle.
 
-## [Unreleased]
+## 1.0.0
 - Initial release

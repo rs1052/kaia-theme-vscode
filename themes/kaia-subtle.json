@@ -215,7 +215,7 @@
 		"statusBar.background": "#1a1a1a",
 		"statusBar.border": "#121212",
 		"statusBar.debuggingBackground": "#424242",
-		"statusBar.debuggingBorder": "#121212", 
+		"statusBar.debuggingBorder": "#121212",
 		"statusBar.debuggingForeground": "#bdbdbd",
 		"statusBar.foreground": "#9e9e9e",
 		"statusBar.noFolderBackground": "#1a1a1a",
@@ -225,6 +225,8 @@
 		"statusBarItem.hoverBackground": "#212121",
 		"statusBarItem.prominentBackground": "#303030",
 		"statusBarItem.prominentHoverBackground": "#303030",
+		"statusBarItem.remoteBackground": "#1a1a1a",
+		"statusBarItem.remoteForeground": "#9e9e9e",
 		"tab.activeBackground": "#212121",
 		"tab.activeBorder": "#fff9c4",
 		"tab.activeForeground": "#fff9c4",
@@ -277,7 +279,7 @@
 		"widget.shadow": "#121212",
 		"listFilterWidget.background": "#373737",
 		"listFilterWidget.noMatchesOutline": "#ffcdd2",
-		"listFilterWidget.outline": "#00000000",		
+		"listFilterWidget.outline": "#00000000",
 	},
 	"tokenColors": [
 		{

@@ -227,6 +227,8 @@
 		"statusBarItem.hoverBackground": "#212121",
 		"statusBarItem.prominentBackground": "#303030",
 		"statusBarItem.prominentHoverBackground": "#303030",
+		"statusBarItem.remoteBackground": "#1a1a1a",
+		"statusBarItem.remoteForeground": "#9e9e9e",
 		"tab.activeBackground": "#212121",
 		"tab.activeBorder": "#fff59d",
 		"tab.activeForeground": "#fff59d",

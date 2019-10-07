@@ -1,5 +1,7 @@
 # Change Log
-All notable changes to the "kaia-theme" extension will be documented in this file.
+
+## 1.1.5
+- Update remote session badge to match status bar and fix incorrect hover colors.
 
 ## 1.1.4
 - Update screenshots for Kaia and Kaia Subtle.

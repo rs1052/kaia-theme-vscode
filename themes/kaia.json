@@ -280,6 +280,10 @@
 	},
 	"tokenColors": [
 		{
+      "scope": ["meta.embedded"],
+      "settings": { "foreground": "#f5f5f5" }
+    },
+		{
 			"scope": [
 				"comment",
 				"comment keyword",
